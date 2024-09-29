@@ -1,4 +1,4 @@
-<h3 align="left">💖:</h3>
+<h3 align="left">Favorite artist:</h3>
 <p align="left">
 <a href="https://2093.shop/" target="blank"><img align="center" src="https://c.tenor.com/1MmDHDcShI0AAAAd/tenor.gif" alt="YEAT" height="188" width="281" /></a>
 </p>
