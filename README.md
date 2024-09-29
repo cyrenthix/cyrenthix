@@ -1,3 +1,8 @@
+<h3 align="left">💖:</h3>
+<p align="left">
+<a href="https://2093.shop/" target="blank"><img align="center" src="https://c.tenor.com/1MmDHDcShI0AAAAd/tenor.gif" alt="YEAT" height="188" width="281" /></a>
+</p>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
 <a href="https://www.java.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="35" width="35" /></a>
