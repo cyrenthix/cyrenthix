@@ -9,4 +9,14 @@
 <a href="https://www.lua.org/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/lua_icon_132239.png" alt="lua" height="35" width="35" /></a>
 </p>
 
+<h3 align="left">IDE:</h3>
+<p align="left">
+<a href="https://www.jetbrains.com/fleet/" target="blank"><img align="center" src="https://michaelzhou.gallerycdn.vsassets.io/extensions/michaelzhou/fleet-theme/1.3.10/1678031746650/Microsoft.VisualStudio.Services.Icons.Default" alt="Fleet" height="35" width="35" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/LinbuduLab/pnpm-vscode-helper/main/assets/vscode-logo-forked.png?raw=true" alt="VS Code" height="35" width="35" /></a>
+<a href="https://www.jetbrains.com/idea/" target="blank"><img align="center" src="https://iconlogovector.com/uploads/images/2024/04/lg-661b2340cc359-IntelliJ-IDEA.webp" alt="IntelliJ IDEA
+" height="35" width="35" /></a>
+</p>
+
+<h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flezzpe&" alt="flezzpe" /></p>
+
