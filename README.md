@@ -6,7 +6,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
 <a href="https://www.java.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="35" width="35" /></a>
-<a href="https://www.lua.org/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/lua_icon_132239.png" alt="lua" height="35" width="35" /></a>
+<a href="https://www.lua.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">IDE:</h3>
@@ -19,9 +19,3 @@
 
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flezzpe&" alt="flezzpe" /></p>
-
-<h3 align="left">lyfestyle 18 oct:</h3>
-
-
-https://github.com/user-attachments/assets/f7d30692-d407-490e-95c1-1184031ea994
-
