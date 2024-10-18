@@ -19,3 +19,5 @@
 
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flezzpe&" alt="flezzpe" /></p>
+
+<h3 align="left">OCTOBERWESTYLE 🪖: LYFЁSTYLЁ OUT</h3>
