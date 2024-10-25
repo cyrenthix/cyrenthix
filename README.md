@@ -1,8 +1,8 @@
 <h3 align="left">Favorite artist:</h3>
 <p align="left">
 <a href="https://2093.shop/" target="blank"><img align="center" src="https://c.tenor.com/1MmDHDcShI0AAAAd/tenor.gif" alt="YEAT" height="188" width="281" /></a>
-<h3 align="left">🤍</h3>
-<a href="https://2093.shop/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/489a3a8e-5966-4807-b981-94b9d98a49e5" alt="YEAT" height="100" width="255" /></a>
+<h3 align="left">💚</h3>
+<a href="https://2093.shop/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/489a3a8e-5966-4807-b981-94b9d98a49e5" alt="YEAT" height="100" width="263" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
