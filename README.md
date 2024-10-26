@@ -1,6 +1,6 @@
-<h3 align="left">Favorite artist (1% of Spotify fans):</h3>
+<h3 align="left">Favorite artist (1% of Spotify fans 💚):</h3>
 <p align="left">
-<a href="https://2093.shop/" target="blank"><img align="center" src="https://c.tenor.com/1MmDHDcShI0AAAAd/tenor.gif" alt="YEAT" height="188" width="281" /></a>
+<a href="https://2093.shop/" target="blank"><img align="center" src="https://c.tenor.com/7WX99IMZosQAAAAd/tenor.gif" alt="YEAT" height="201" width="400" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
