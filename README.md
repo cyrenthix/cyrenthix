@@ -1,8 +1,6 @@
-<h3 align="left">Favorite artist:</h3>
+<h3 align="left">Favorite artist (1% of Spotify fans):</h3>
 <p align="left">
 <a href="https://2093.shop/" target="blank"><img align="center" src="https://c.tenor.com/1MmDHDcShI0AAAAd/tenor.gif" alt="YEAT" height="188" width="281" /></a>
-<h3 align="left">💚</h3>
-<a href="https://2093.shop/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/489a3a8e-5966-4807-b981-94b9d98a49e5" alt="YEAT" height="100" width="263" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -17,9 +15,10 @@
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/LinbuduLab/pnpm-vscode-helper/main/assets/vscode-logo-forked.png?raw=true" alt="VS Code" height="35" width="35" /></a>
 <a href="https://www.jetbrains.com/idea/" target="blank"><img align="center" src="https://iconlogovector.com/uploads/images/2024/04/lg-661b2340cc359-IntelliJ-IDEA.webp" alt="IntelliJ IDEA
 " height="35" width="35" /></a>
+<a href="https://www.jetbrains.com/pycharm/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/63eba055-663c-470b-a39f-0175f0e74304" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flezzpe&" alt="flezzpe" /></p>
-
-<h3 align="left">OCTOBERWESTYLE 🪖: LYFЁSTYLЁ OUT</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flezzpe" alt="flezzpe" /></p>
+<h3 align="left"></h3>
