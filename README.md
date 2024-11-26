@@ -41,4 +41,4 @@
     <img src="https://c.tenor.com/3EhCAJGF2kgAAAAd/tenor.gif" alt="Yeat" height="320" width="320" />
   </a>
 </p>
-<h3 align="center">Favorite Song: "Type Monёy" by Yeat | Album: *Aftёrlyfё*</h3>
+<h3 align="center">Favorite Song: "[Lil Skatty](https://youtu.be/IXQVqX9vnNI)" by Yeat | Favorite Album: *Aftёrlyfё*</h3>
