@@ -34,7 +34,12 @@
 
 <h3 align="left">Favorite Artist:</h3>
 <p align="left">
-  <strong>Yeat (1% of Spotify fans 💚)</strong>
+  <strong>Yeat (0.01% of fans 💚)</strong>
+  <p align="center">
+    <a href="https://2093.shop/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/d2c1ea56-4293-48cc-9312-31c3e94e3f4e" alt="Yeat" height="620" width="340" />
+    </a>
+  </p>
 </p>
 <p align="center">
   <a href="https://2093.shop/" target="_blank">
