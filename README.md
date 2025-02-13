@@ -1,5 +1,5 @@
 # 📚 Languages:
-<p align="center">
+<p align="left">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="35" width="35" />
   </a>
@@ -9,7 +9,7 @@
 </p>
 
 # 🛠 IDEs:
-<p align="center">
+<p align="left">
   <a href="https://www.jetbrains.com/fleet/" target="_blank">
     <img src="https://michaelzhou.gallerycdn.vsassets.io/extensions/michaelzhou/fleet-theme/1.3.10/1678031746650/Microsoft.VisualStudio.Services.Icons.Default" alt="Fleet" height="35" width="35" />
   </a>
@@ -25,7 +25,7 @@
 </p>
 
 # 📊 Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=flezzpe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=flezzpe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+###
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=flezzpe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=flezzpe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
