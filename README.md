@@ -24,7 +24,9 @@
   </a>
 </p>
 
-<h2 align="left">Stats:</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flezzpe" alt="GitHub Streak Stats" />
-</p>
+# 📊 Stats:
+![](https://github-readme-stats.vercel.app/api?username=flezzpe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=flezzpe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=flezzpe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=flezzpe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
