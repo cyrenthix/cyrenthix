@@ -34,3 +34,4 @@
 # ⌚ Waka-Time:
 
 ![](https://wakatime.com/share/@flesspe/758833a2-fe23-4b8a-b7a3-3d74c9fe0410.svg)
+![](https://wakatime.com/badge/user/043f1aca-7850-40d8-a2d3-e8f9daf167b7.svg)
