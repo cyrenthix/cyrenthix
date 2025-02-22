@@ -27,5 +27,7 @@
 # 📊 Stats:
 
 ###
+
+<figure><embed src="https://wakatime.com/share/@flesspe/758833a2-fe23-4b8a-b7a3-3d74c9fe0410.svg"></embed></figure>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flezzpe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=flezzpe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
