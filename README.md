@@ -1,34 +1,14 @@
-# 📚 Languages:
-<p align="left">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="35" width="35" />
-  </a>
-  <a href="https://www.lua.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" height="35" width="35" />
-  </a>
-</p>
+🤍
+### 📑 Languages: `Luau, Java`
 
-# 🛠 IDEs:
-<p align="left">
-  <a href="https://www.jetbrains.com/fleet/" target="_blank">
-    <img src="https://michaelzhou.gallerycdn.vsassets.io/extensions/michaelzhou/fleet-theme/1.3.10/1678031746650/Microsoft.VisualStudio.Services.Icons.Default" alt="Fleet" height="35" width="35" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/LinbuduLab/pnpm-vscode-helper/main/assets/vscode-logo-forked.png" alt="VS Code" height="35" width="35" />
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://iconlogovector.com/uploads/images/2024/04/lg-661b2340cc359-IntelliJ-IDEA.webp" alt="IntelliJ IDEA" height="35" width="35" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/63eba055-663c-470b-a39f-0175f0e74304" alt="PyCharm" height="35" width="35" />
-  </a>
-</p>
+I create products in which I always try to maintain a good bar of security, optimization and user-friendliness, as well as ui that will be understandable at a glance. 
 
-# 📊 Git Stats:
+At the moment my main project is Nurysium, it uses my own ideas and experience such as the UI and Nurea authorization system to provide convenience and privacy for all users. 
 
-![](https://github-profile-trophy.vercel.app/?username=flezzpe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+Right now I am the only developer and do all the work on the project myself, so it takes a lot of time to develop, despite this it is completely free to use and its main goal is not to make a profit.
 
-# ⌚ Waka-Time:
+![Nurysium](https://github.com/user-attachments/assets/75a9ab14-c8bf-42b2-8844-3f47b6f04d8c)
 
-![](https://wakatime.com/share/@flesspe/758833a2-fe23-4b8a-b7a3-3d74c9fe0410.svg)
+##### If you have any questions for me, you can always message me on Discord: @java.dll
+
 ![](https://wakatime.com/badge/user/043f1aca-7850-40d8-a2d3-e8f9daf167b7.svg)
