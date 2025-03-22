@@ -3,7 +3,7 @@
 
 I create products in which I always try to maintain a good bar of security, optimization and user-friendliness, as well as ui that will be understandable at a glance. 
 
-At the moment my main project is Nurysium, it uses my own ideas and experience such as the UI and Nurea authorization system to provide convenience and privacy for all users. 
+At the moment my main project is [Nurysium](https://dsc.gg/Nurysium), it uses my own ideas and experience such as the UI and Nurea authorization system to provide convenience and privacy for all users. 
 
 Right now I am the only developer and do all the work on the project myself, so it takes a lot of time to develop, despite this it is completely free to use and its main goal is not to make a profit.
 
