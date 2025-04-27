@@ -7,7 +7,7 @@ At the moment my main project is [Nurysium](https://dsc.gg/Nurysium), it uses my
 
 Right now I am the only developer and do all the work on the project myself, so it takes a lot of time to develop, despite this it is completely free to use and its main goal is not to make a profit.
 
-![Nurysium](https://github.com/user-attachments/assets/75a9ab14-c8bf-42b2-8844-3f47b6f04d8c)
+![NuryBackground](https://github.com/user-attachments/assets/80f0de3f-2e6b-41ca-a133-659995145523)
 
 ##### If you have any questions for me, you can always message me on Discord: @java.dll
 
