@@ -1,5 +1,5 @@
-🤍
-### 📑 Languages: `Luau, Java`
+#### 📑 Languages:
+`lua, luau, java`
 
 I create products in which I always try to maintain a good bar of security, optimization and user-friendliness, as well as ui that will be understandable at a glance. 
 
