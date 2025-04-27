@@ -5,8 +5,6 @@ I create products in which I always try to maintain a good bar of security, opti
 
 At the moment my main project is [Nurysium](https://dsc.gg/Nurysium), it uses my own ideas and experience such as the UI and Nurea authorization system to provide convenience and privacy for all users. 
 
-Right now I am the only developer and do all the work on the project myself, so it takes a lot of time to develop, despite this it is completely free to use and its main goal is not to make a profit.
-
 ![NuryBackground](https://github.com/user-attachments/assets/80f0de3f-2e6b-41ca-a133-659995145523)
 
 ##### If you have any questions for me, you can always message me on Discord: @java.dll
