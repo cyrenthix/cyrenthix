@@ -2,7 +2,7 @@
 `lua, luau, java`
 
 I create products in which I always try to maintain a good bar of security, optimization and user-friendliness, as well as ui that will be understandable at a glance. Refactor my code quite often to maintain a good quality level 
-At the moment my main project is [Nurysium](https://dsc.gg/Nurysium), it uses my own ideas and experience such as the UI and Nurea authorization system to provide convenience and privacy for all users
+At the moment my main project is [Nurysium](https://dsc.gg/Nurysium), it uses my own ideas and experience
 
 ![NuryBackground](https://github.com/user-attachments/assets/80f0de3f-2e6b-41ca-a133-659995145523)
 
