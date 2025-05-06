@@ -1,5 +1,5 @@
 #### 📑 Languages:
-> luau, lua, java`
+> luau, lua, java
 
 #### ❔ About me:
 
