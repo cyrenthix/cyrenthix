@@ -11,7 +11,7 @@ I also refactor my code regularly to keep its quality at a high level, including
 For each project, I use tools like liners, bundlers, and others to make sure my code is clean, readable, and follows solid guidelines
 
 #### My current main project is [Nurysium](https://dsc.gg/Nurysium)
-It reflects my personal approach to development, shaped by my own ideas and development experience
+It mirrors my personal approach to development, shaped by my own ideas and development experience
 
 #### 📡 Contact:
 > If you have any questions, you can always message me on Discord: @java.dll
