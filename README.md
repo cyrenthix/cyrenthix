@@ -8,7 +8,7 @@ Clear and accessible interfaces are also among my priorities
 
 I also refactor my code regularly to keep its quality at a high level, including optimization and readability. I strive to become even better at development by making my projects ideomatic, as well as more thoughtful, using strict data typing
 
-For each project, I use tools like liners, bundlers, and others to make sure my code is clean, readable, and follows solid guidelines
+For each product, I use tools like liners, bundlers, and others to make sure my code is clean, readable, and follows solid guidelines
 
 #### My current main project is [Nurysium](https://dsc.gg/Nurysium)
 Nurysium mirrors my personal approach to development, shaped by my own ideas and development experience
