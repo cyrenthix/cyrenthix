@@ -13,6 +13,9 @@ For each project, I use tools like liners, bundlers, and others to make sure my 
 #### My current main project is [Nurysium](https://dsc.gg/Nurysium)
 Nurysium mirrors my personal approach to development, shaped by my own ideas and development experience
 
+> [!NOTE]
+> While there are still elements of Nurisium whose quality bar is too low, I'm trying to address this as soon as possible
+
 #### 📡 Contact:
 > If you have any questions, you can always message me on Discord: @java.dll
 
