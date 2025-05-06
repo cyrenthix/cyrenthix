@@ -1,10 +1,17 @@
 #### 📑 Languages:
 `lua, luau, java`
 
-I create products in which I always try to maintain a good bar of security, optimization and user-friendliness, as well as ui that will be understandable at a glance. Refactor my code quite often to maintain a good quality level 
-At the moment my main project is [Nurysium](https://dsc.gg/Nurysium), it uses my own ideas and experience
+#### ❔ About me:
 
-![NuryBackground](https://github.com/user-attachments/assets/80f0de3f-2e6b-41ca-a133-659995145523)
+I focus on developing products that combine robust protection and optimization.
+Clear and accessible interfaces are also among my priorities. 
+
+I also refactor my code regularly to keep its quality at a high level, including optimization and readability. I strive to become even better at development by making my projects ideomatic
+
+For each project, I use tools like liners, bundlers, and others to make sure my code is clean, readable, and follows solid guidelines.
+
+My current main project is [Nurysium](https://dsc.gg/Nurysium).
+It reflects my personal approach to development, shaped by my own ideas and development experience.
 
 #### 📡 Contact:
 > If you have any questions, you can always message me on Discord: @java.dll
