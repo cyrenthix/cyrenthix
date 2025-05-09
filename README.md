@@ -18,5 +18,3 @@ Nurysium mirrors my personal approach to development, shaped by my own ideas and
 
 #### 📡 Contact:
 > If you have any questions, you can always message me on Discord: @java.dll
-
-![](https://wakatime.com/badge/user/043f1aca-7850-40d8-a2d3-e8f9daf167b7.svg)
