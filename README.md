@@ -14,7 +14,7 @@ For each product, I use tools like bundler's, linter's and other tools to make s
 Nurysium mirrors my personal approach to development, shaped by my own ideas and development experience
 
 > [!NOTE]
-> While there are still elements of Nurisium whose quality bar is too low, I'm trying to address this as soon as possible
+> While there are still elements of Nurysium whose quality bar is too low, I'm trying to address this as soon as possible
 
 #### 📡 Contact:
 > If you have any questions, you can always message me on Discord: @java.dll
