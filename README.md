@@ -10,11 +10,11 @@ I also refactor my code regularly to keep its quality at a high level, including
 
 For each product, I use tools like bundler's, linter's and other tools to make sure my code is clean, readable, and follows solid guidelines
 
-#### My current main project is [Nurysium](https://dsc.gg/Nurysium)
-Nurysium mirrors my personal approach to development, shaped by my own ideas and development experience
+#### My current main project is [Nury](https://dsc.gg/Nurysium)
+Nury mirrors my personal approach to development, shaped by my own ideas and development experience
 
 > [!NOTE]
-> While there are still elements of Nurysium whose quality bar is too low, I'm trying to address this as soon as possible
+> While there are still elements of Nury whose quality bar is too low, I'm trying to address this as soon as possible
 
 #### 📡 Contact:
-> If you have any questions, you can always message me on Discord: @java.dll
+> If you have any questions, you can always message me on Discord: @java.dll or @flesspe
