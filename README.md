@@ -23,5 +23,6 @@ Nury mirrors my personal approach to development, shaped by my own ideas and exp
 
 #### 📡 **Contact:**  
 > If you have any questions, you can always message me on Discord:  
-> - @java.dll  
+> - @java.dll
+> - @cyrenthix
 > - @flesspe  
