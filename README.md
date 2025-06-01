@@ -13,7 +13,7 @@ For each product, I use tools such as bundlers, linters, and other utilities to 
 
 ---
 
-#### 🤍 **My current main project is [Nury](https://dsc.gg/Nurysium)**  
+#### 🤍 **My current main project is [Nury](https://discord.gg/qChjf23kGv)**  
 Nury mirrors my personal approach to development, shaped by my own ideas and experience.  
 
 > [!NOTE]  
