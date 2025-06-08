@@ -16,9 +16,6 @@ For each product, I use tools such as bundlers, linters, and other utilities to 
 #### 🤍 **My current main project is [Nury](https://discord.gg/qChjf23kGv)**  
 Nury mirrors my personal approach to development, shaped by my own ideas and experience.  
 
-> [!NOTE]  
-> While there are still elements of Nury whose quality bar is too low, I am working on addressing this as soon as possible.  
-
 ---
 
 #### 📡 **Contact:**  
