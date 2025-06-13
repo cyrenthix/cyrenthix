@@ -5,11 +5,7 @@
 
 #### ❔ **About me:**  
 
-I focus on developing products that combine robust security, good optimization, and a user interface that is clear at a glance.
-
-I refactor my code regularly to keep its quality at a high level, including idiomaticity.
-
-For each product, I use tools such as bundlers, linters, and other utilities to ensure cleanliness, readability, and stability while adhering to solid guidelines
+I focus on developing products that combine robust stability, optimization, and understandable structure
 
 ---
 
