@@ -1,8 +1,8 @@
 <samp>
-  <h2>About:</h3>
+  <h3>About:</h3>
 </samp>
 
-I focus on developing products that combine robust stability, optimization, and understandable structure
+I build products that are stable, optimized, and intuitively structured
 
 <samp>
   <h3>My stack:</h3>
@@ -11,7 +11,7 @@ I focus on developing products that combine robust stability, optimization, and 
 ![stack](https://go-skill-icons.vercel.app/api/icons?i=luau,lua,java,figma,aftereffects,vscode&perline=3) 
 
 <samp>
-  <h2>Contact:</h3>
+  <h3>Contact:</h3>
 </samp>
 
 > If you have any questions, you can always message me on Discord:  
