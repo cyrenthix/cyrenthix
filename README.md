@@ -2,10 +2,10 @@
   <h3>About:</h3>
 </samp>
 
-I build products that are stable, optimized, and intuitively structured
+Solo developer with 5+ years of experience, focused on creating stable, efficient, and scalable solutions
 
 <samp>
-  <h3>My stack:</h3>
+  <h3>Stacks:</h3>
 </samp>
 
 ![stack](https://go-skill-icons.vercel.app/api/icons?i=luau,lua,java,figma,aftereffects,vscode&perline=3) 
@@ -14,5 +14,4 @@ I build products that are stable, optimized, and intuitively structured
   <h3>Contact:</h3>
 </samp>
 
-> If you have any questions, you can always message me on Discord:  
-> - @java.dll
+> My Discord tag if you have any questions: @java.dll
