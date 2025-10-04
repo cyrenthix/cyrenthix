@@ -14,4 +14,4 @@ Solo developer with 5+ years of experience, focused on creating stable, efficien
   <h3>Contact:</h3>
 </samp>
 
-> My Discord tag if you have any questions: @java.dll
+My Discord tag if you have any questions: @java.dll
